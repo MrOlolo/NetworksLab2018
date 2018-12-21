@@ -1,0 +1,22 @@
+intel i5
+3
+intel i3
+2
+amd ryzen 7 2700
+5
+amd ryzen 5 1500
+3
+kingston ddr3 4gb
+3
+hynix ddr3 2gb
+2
+amd radeon rx280 3gb
+3
+nvidia rtx2080 8gb
+8
+intel i7
+2
+kek
+6
+networklabs2018
+2018
