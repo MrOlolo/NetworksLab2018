@@ -1,0 +1,8 @@
+
+>>>WELCOME TO THE KSPT ONLINE SHOP<<<
+What do you want to do?
+1)Show products
+2)Buy products
+3)Add products
+4)Exit
+
